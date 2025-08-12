@@ -20,6 +20,11 @@ This app works by using the barometer built in to your phone. Do note that the s
 
 - Google Pixel 3 XL (factory water resistance intact, and also tested with SIM tray removed): https://youtu.be/nIx5q6lZxU4
 
+### Images
+
+<img src="screenshot.jpg" width="300" />
+
+
 ## Download the App
 
 It was originally listed on the [Play Store](https://play.google.com/store/apps/details?id=com.ray.waterresistancetester), but due to my disagreements with Google's Play Store policy changes, it is no longer available. Instead, you can download the app through the "Releases" page here.
